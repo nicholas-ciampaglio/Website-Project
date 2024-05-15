@@ -17,8 +17,9 @@
 }
 
 .sidebar-link {
-  height: 122px;
+  height: 90px;
   display: flex;
+  position: relative;
   justify-content: center;
   align-items: center;
   flex-direction: column;
